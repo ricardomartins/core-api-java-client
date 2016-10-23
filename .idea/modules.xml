@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coreapi-client.iml" filepath="$PROJECT_DIR$/.idea/modules/coreapi-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coreapi-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/coreapi-client_main.iml" group="coreapi-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/coreapi-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/coreapi-client_test.iml" group="coreapi-client" />
+    </modules>
+  </component>
+</project>
